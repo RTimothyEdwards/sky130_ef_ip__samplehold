@@ -1,0 +1,82 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1651948471
+<< pwell >>
+rect -519 -7298 519 7298
+<< psubdiff >>
+rect -483 7228 -387 7262
+rect 387 7228 483 7262
+rect -483 7166 -449 7228
+rect 449 7166 483 7228
+rect -483 -7228 -449 -7166
+rect 449 -7228 483 -7166
+rect -483 -7262 -387 -7228
+rect 387 -7262 483 -7228
+<< psubdiffcont >>
+rect -387 7228 387 7262
+rect -483 -7166 -449 7166
+rect 449 -7166 483 7166
+rect -387 -7262 387 -7228
+<< xpolycontact >>
+rect -353 6700 -283 7132
+rect -353 -7132 -283 -6700
+rect -35 6700 35 7132
+rect -35 -7132 35 -6700
+rect 283 6700 353 7132
+rect 283 -7132 353 -6700
+<< xpolyres >>
+rect -353 -6700 -283 6700
+rect -35 -6700 35 6700
+rect 283 -6700 353 6700
+<< locali >>
+rect -483 7228 -387 7262
+rect 387 7228 483 7262
+rect -483 7166 -449 7228
+rect 449 7166 483 7228
+rect -483 -7228 -449 -7166
+rect 449 -7228 483 -7166
+rect -483 -7262 -387 -7228
+rect 387 -7262 483 -7228
+<< viali >>
+rect -337 6717 -299 7114
+rect -19 6717 19 7114
+rect 299 6717 337 7114
+rect -337 -7114 -299 -6717
+rect -19 -7114 19 -6717
+rect 299 -7114 337 -6717
+<< metal1 >>
+rect -343 7114 -293 7126
+rect -343 6717 -337 7114
+rect -299 6717 -293 7114
+rect -343 6705 -293 6717
+rect -25 7114 25 7126
+rect -25 6717 -19 7114
+rect 19 6717 25 7114
+rect -25 6705 25 6717
+rect 293 7114 343 7126
+rect 293 6717 299 7114
+rect 337 6717 343 7114
+rect 293 6705 343 6717
+rect -343 -6717 -293 -6705
+rect -343 -7114 -337 -6717
+rect -299 -7114 -293 -6717
+rect -343 -7126 -293 -7114
+rect -25 -6717 25 -6705
+rect -25 -7114 -19 -6717
+rect 19 -7114 25 -6717
+rect -25 -7126 25 -7114
+rect 293 -6717 343 -6705
+rect 293 -7114 299 -6717
+rect 337 -7114 343 -6717
+rect 293 -7126 343 -7114
+<< res0p35 >>
+rect -355 -6702 -281 6702
+rect -37 -6702 37 6702
+rect 281 -6702 355 6702
+<< properties >>
+string FIXED_BBOX -466 -7245 466 7245
+string gencell sky130_fd_pr__res_xhigh_po_0p35
+string library sky130
+string parameters w 0.350 l 67 m 1 nx 3 wmin 0.350 lmin 0.50 rho 2000 val 383.932k dummy 0 dw 0.0 term 188.2 sterm 0.0 caplen 0 wmax 0.350 guard 1 glc 1 grc 1 gtc 1 gbc 1 compatible {sky130_fd_pr__res_xhigh_po_0p35  sky130_fd_pr__res_xhigh_po_0p69 sky130_fd_pr__res_xhigh_po_1p41  sky130_fd_pr__res_xhigh_po_2p85 sky130_fd_pr__res_xhigh_po_5p73} full_metal 1 n_guard 0 hv_guard 0 vias 1 viagb 0 viagt 0 viagl 0 viagr 0
+<< end >>

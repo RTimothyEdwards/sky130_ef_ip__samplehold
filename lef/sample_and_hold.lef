@@ -1,0 +1,96 @@
+VERSION 5.7 ;
+  NOWIREEXTENSIONATPIN ON ;
+  DIVIDERCHAR "/" ;
+  BUSBITCHARS "[]" ;
+MACRO sample_and_hold
+  CLASS BLOCK ;
+  FOREIGN sample_and_hold ;
+  ORIGIN 0.000 0.000 ;
+  SIZE 97.345 BY 56.485 ;
+  PIN out
+    PORT
+      LAYER met1 ;
+        RECT 94.820 22.850 97.345 23.850 ;
+    END
+  END out
+  PIN vdd
+    PORT
+      LAYER met1 ;
+        RECT 0.000 26.420 12.575 30.075 ;
+    END
+  END vdd
+  PIN hold
+    PORT
+      LAYER met1 ;
+        RECT 0.000 44.505 1.000 45.505 ;
+    END
+  END hold
+  PIN in
+    PORT
+      LAYER met1 ;
+        RECT 0.000 24.930 19.605 25.930 ;
+    END
+  END in
+  PIN vss
+    PORT
+      LAYER met4 ;
+        RECT 0.000 50.955 5.195 55.915 ;
+    END
+  END vss
+  PIN dvdd
+    PORT
+      LAYER met1 ;
+        RECT 0.000 48.060 5.350 49.760 ;
+    END
+  END dvdd
+  PIN dvss
+    PORT
+      LAYER met1 ;
+        RECT 0.000 30.760 4.070 32.370 ;
+    END
+  END dvss
+  PIN ena
+    PORT
+      LAYER met1 ;
+        RECT 0.000 23.205 9.440 24.205 ;
+    END
+  END ena
+  OBS
+      LAYER li1 ;
+        RECT 1.365 2.910 96.210 54.810 ;
+      LAYER met1 ;
+        RECT 1.000 50.040 96.050 55.910 ;
+        RECT 5.630 47.780 96.050 50.040 ;
+        RECT 1.000 45.785 96.050 47.780 ;
+        RECT 1.280 44.225 96.050 45.785 ;
+        RECT 1.000 32.650 96.050 44.225 ;
+        RECT 4.350 30.480 96.050 32.650 ;
+        RECT 1.000 30.355 96.050 30.480 ;
+        RECT 12.855 26.210 96.050 30.355 ;
+        RECT 19.885 24.650 96.050 26.210 ;
+        RECT 1.000 24.485 96.050 24.650 ;
+        RECT 9.720 24.130 96.050 24.485 ;
+        RECT 9.720 22.925 94.540 24.130 ;
+        RECT 1.000 22.570 94.540 22.925 ;
+        RECT 1.000 0.000 96.050 22.570 ;
+        RECT 12.390 -0.570 15.105 0.000 ;
+        RECT 56.390 -0.570 59.105 0.000 ;
+      LAYER met2 ;
+        RECT 1.685 0.000 96.175 55.910 ;
+        RECT 12.390 -0.570 15.105 0.000 ;
+        RECT 56.390 -0.570 59.105 0.000 ;
+      LAYER met3 ;
+        RECT 1.685 0.000 96.325 55.910 ;
+        RECT 12.390 -0.570 15.105 0.000 ;
+        RECT 56.390 -0.570 59.105 0.000 ;
+      LAYER met4 ;
+        RECT 5.595 50.555 96.320 55.910 ;
+        RECT 4.285 0.000 96.320 50.555 ;
+        RECT 12.390 -0.570 15.105 0.000 ;
+        RECT 56.390 -0.570 59.105 0.000 ;
+      LAYER met5 ;
+        RECT 11.075 -0.570 96.245 55.910 ;
+  END
+END sample_and_hold
+END LIBRARY
+
