@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1718228583
+timestamp 1718240546
 << dnwell >>
 rect 229 230 4145 10887
 << nwell >>
@@ -1465,1559 +1465,1559 @@ rect 4058 508 4157 1204
 rect 3940 463 4157 508
 rect 383 442 4157 463
 use amp_via_2cut  amp_via_2cut_0
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_1
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_2
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_3
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_4
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_5
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_6
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_7
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_8
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_9
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_10
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_11
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_12
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_13
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_14
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_15
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_16
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_17
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_18
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_19
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_20
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_21
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_22
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_23
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_24
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8999 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_25
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_26
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_27
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_28
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_29
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_30
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_31
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_32
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_33
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 20917
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_34
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 20829
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_35
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_36
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_37
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_38
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_39
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_40
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_41
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 20312
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_42
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_43
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_44
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_45
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_46
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_47
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_48
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_49
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_50
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_51
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_52
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_53
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_54
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_55
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_56
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_57
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_58
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_59
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_60
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_61
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 21265
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_62
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 21353
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_63
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_64
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_65
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_66
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_67
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_68
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_69
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_70
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_71
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_72
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_73
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_74
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_75
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_76
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_77
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_78
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_79
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_80
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_81
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_82
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_83
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_84
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_85
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_86
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_87
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_88
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_89
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_90
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_91
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_92
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_93
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_94
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_95
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_96
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_97
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_98
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_99
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_100
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_101
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_102
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_103
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 21701
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_104
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 21789
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_105
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_106
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_107
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_108
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_109
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_110
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_111
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_112
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 22573
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_113
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_114
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_115
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_116
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_117
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 22661
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_118
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_119
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_120
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_121
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_122
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_123
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_124
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 22225
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_125
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 22137
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_126
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_127
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_128
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_129
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_130
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_131
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_132
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_133
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_134
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_135
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 23009
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_136
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_137
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_138
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_139
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_140
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_141
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_142
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_143
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_144
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_145
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_146
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_147
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_148
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_149
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_150
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_151
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_152
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_153
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_154
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_155
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_156
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_157
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_158
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_159
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_160
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_161
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_162
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_163
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_164
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_165
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_166
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_167
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 23097
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_168
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_169
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_170
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_171
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_172
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_173
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_174
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_175
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_176
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_177
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_178
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_179
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 23969
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_180
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 23881
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_181
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_182
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_183
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_184
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_185
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_186
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_187
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 23533
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_188
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 23445
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_189
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_190
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_191
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_192
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_193
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_194
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_195
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_196
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_197
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_198
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_199
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_200
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_201
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_202
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_203
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_204
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_205
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_206
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_207
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_208
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 24405
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_209
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 24317
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_210
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_211
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_212
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_213
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_214
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_215
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_216
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_217
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_218
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_219
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_220
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_221
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_222
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_223
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_224
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_225
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_226
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_227
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_228
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_229
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_230
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_231
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_232
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_233
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_234
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_235
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_236
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_237
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_238
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_239
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_240
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_241
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_242
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_243
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_244
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_245
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_246
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_247
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_248
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_249
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_250
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 24841
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_251
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 24753
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_252
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_253
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_254
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_255
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_256
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_257
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_258
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_259
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_260
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_261
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_262
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_263
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 25625
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_264
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 25713
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_265
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_266
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_267
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_268
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_269
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_270
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_271
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 25277
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_272
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 25189
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_273
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_274
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_275
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_276
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_277
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_278
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_279
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_280
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_281
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_282
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_283
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_284
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_285
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_286
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_287
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_288
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_289
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_290
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_291
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_292
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 26585
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_293
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 26497
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_294
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8846 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_295
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9004 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_296
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8530 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_297
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_298
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10426 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_299
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10268 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_300
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10110 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_301
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9794 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_302
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9952 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_303
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9478 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_304
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9636 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_305
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9162 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_306
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9320 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_307
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11690 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_308
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11532 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_309
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11374 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_310
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11216 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_311
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11058 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_312
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10900 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_313
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10742 -1 0 26149
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_314
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10584 -1 0 26061
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_315
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8688 -1 0 20224
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_316
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8842 1 0 -12869
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_317
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8683 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_318
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9737 1 0 -12869
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_319
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9112 1 0 -13712
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_320
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9582 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_321
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9266 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_322
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9899 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_323
-timestamp 1717613630
+timestamp 1718240546
 transform 0 -1 -7377 -1 0 18761
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_324
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10554 1 0 -13634
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_325
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8842 1 0 -13638
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_326
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 8683 1 0 -13711
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_327
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10326 1 0 -12868
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_328
-timestamp 1717613630
+timestamp 1718240546
 transform 1 0 -15262 0 -1 -4823
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_329
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10481 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_330
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10165 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_331
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10798 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_332
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9424 1 0 -12868
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_333
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11539 1 0 -12869
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_334
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11226 1 0 -12868
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_335
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10639 1 0 -12869
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_336
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11381 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_337
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11065 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_338
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11698 1 0 -12777
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_339
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9272 1 0 -13636
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_340
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10133 1 0 -14503
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_341
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9862 1 0 -13636
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_342
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11037 1 0 -13637
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_343
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10289 1 0 -13710
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_344
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10799 1 0 -13711
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_345
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9541 1 0 -13636
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_346
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9861 1 0 -14433
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_347
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9545 1 0 -14433
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_348
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9229 1 0 -14433
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_349
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9388 1 0 -14507
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_350
-timestamp 1717613630
+timestamp 1718240546
 transform 1 0 -15591 0 -1 -6473
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_351
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10860 1 0 -14584
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_352
-timestamp 1717613630
+timestamp 1718240546
 transform 1 0 -13970 0 -1 -4935
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_353
-timestamp 1717613630
+timestamp 1718240546
 transform 1 0 -13967 0 -1 -5086
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_354
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9702 1 0 -13711
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_355
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11307 1 0 -13638
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_356
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10132 1 0 -13710
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_357
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11623 1 0 -13638
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_358
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11468 1 0 -13707
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_359
-timestamp 1717613630
+timestamp 1718240546
 transform 1 0 -13383 0 -1 -6391
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_360
-timestamp 1717613630
+timestamp 1718240546
 transform 1 0 -13856 0 -1 -6632
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_361
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10993 1 0 -14434
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_362
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11152 1 0 -14508
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_363
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11309 1 0 -14434
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_364
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11467 1 0 -14508
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_365
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 11625 1 0 -14434
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_366
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 9703 1 0 -14507
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_367
-timestamp 1717613630
+timestamp 1718240546
 transform 1 0 -15376 0 -1 -6632
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_368
-timestamp 1717613630
+timestamp 1718240546
 transform 0 -1 -7295 -1 0 18941
 box 16088 -7932 16222 -7868
 use amp_via_2cut  amp_via_2cut_369
-timestamp 1717613630
+timestamp 1718240546
 transform 0 1 10564 1 0 -14433
 box 16088 -7932 16222 -7868
 use sky130_fd_pr__nfet_g5v0d10v5_FJGQFC  XM1 paramcells
-timestamp 1717692607
+timestamp 1718240546
 transform 1 0 1801 0 1 2481
 box -357 -358 357 358
 use sky130_fd_pr__pfet_g5v0d10v5_KLWMS5  XM5 paramcells
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 2583 0 1 3332
 box -545 -397 545 397
 use sky130_fd_pr__pfet_g5v0d10v5_KLWMS5  XM6
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 3483 0 1 3332
 box -545 -397 545 397
 use sky130_fd_pr__nfet_g5v0d10v5_FJGQ2Y  XM7 paramcells
-timestamp 1717690002
+timestamp 1718240546
 transform 1 0 3567 0 1 2481
 box -357 -358 357 358
 use sky130_fd_pr__nfet_g5v0d10v5_UNEQFS  XM8 paramcells
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 2310 0 1 2481
 box -278 -358 278 358
 use sky130_fd_pr__nfet_05v0_nvt_BH6ZTK  XM9 paramcells
-timestamp 1717692607
+timestamp 1718240546
 transform 1 0 2899 0 1 2481
 box -437 -358 437 358
 use sky130_fd_pr__nfet_g5v0d10v5_H7BQFY  XM10 paramcells
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 1645 0 1 1685
 box -515 -358 515 358
 use sky130_fd_pr__pfet_g5v0d10v5_AQ2WAW  XM12 paramcells
-timestamp 1717690002
+timestamp 1718240546
 transform 1 0 2210 0 1 4113
 box -1809 -397 1809 397
 use sky130_fd_pr__nfet_g5v0d10v5_UNEQFS  XM13
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 2312 0 1 1685
 box -278 -358 278 358
 use sky130_fd_pr__pfet_g5v0d10v5_Z8JNCQ  XM20 paramcells
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 2210 0 1 7551
 box -1809 -3231 1809 3231
 use sky130_fd_pr__nfet_g5v0d10v5_H7BQ24  XM22 paramcells
-timestamp 1717690002
+timestamp 1718240546
 transform 1 0 3409 0 1 1684
 box -515 -358 515 358
 use sky130_fd_pr__nfet_g5v0d10v5_UNEQFS  XM24
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 2742 0 1 1685
 box -278 -358 278 358
 use sky130_fd_pr__pfet_g5v0d10v5_KLJMY6  XM25 paramcells
-timestamp 1717692607
+timestamp 1718240546
 transform 1 0 862 0 1 3332
 box -466 -397 466 397
 use sky130_fd_pr__pfet_g5v0d10v5_KLWMS5  XM27
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 1683 0 1 3332
 box -545 -397 545 397
 use sky130_fd_pr__nfet_g5v0d10v5_UNEQFS  XM29
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 1292 0 1 2481
 box -278 -358 278 358
 use sky130_fd_pr__nfet_g5v0d10v5_UNEQFS  XM30
-timestamp 1717691772
+timestamp 1718240546
 transform 1 0 862 0 1 2481
 box -278 -358 278 358
 use sky130_fd_pr__res_xhigh_po_0p35_HLA228  XR1 paramcells
-timestamp 1717716768
+timestamp 1718240546
 transform 0 1 2187 -1 0 807
 box -367 -1748 367 1748
 use sky130_fd_pr__diode_pw2nd_05v5_FT76RJ  XXD1 paramcells
-timestamp 1717690002
+timestamp 1718240546
 transform 1 0 771 0 1 1552
 box -183 -183 183 183
 use sky130_fd_pr__diode_pw2nd_05v5_FT76RJ  XXD2
-timestamp 1717690002
+timestamp 1718240546
 transform 1 0 771 0 1 1812
 box -183 -183 183 183
 << labels >>

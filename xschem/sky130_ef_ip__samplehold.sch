@@ -85,7 +85,7 @@ lab=vss}
 N 300 -1100 300 -1070 {
 lab=vss}
 N 260 -1120 320 -1120 {
-lab=ena_h}
+lab=ena3v}
 N 1340 -1180 1360 -1180 {
 lab=ena3v}
 N 300 -1070 300 -1050 {
@@ -97,15 +97,11 @@ lab=vss}
 N 80 -1100 100 -1100 {
 lab=ena}
 N 230 -1100 260 -1100 {
-lab=ena_h}
+lab=ena3v}
 N 260 -1120 260 -1100 {
-lab=ena_h}
+lab=ena3v}
 N 90 -1100 90 -1060 {
 lab=ena}
-N 140 -1000 300 -1000 {
-lab=vss}
-N 300 -1050 300 -1000 {
-lab=vss}
 N 320 -1080 320 -1000 {
 lab=dvss}
 N 320 -1000 350 -1000 {
@@ -127,11 +123,11 @@ lab=in}
 N 230 -1190 260 -1190 {
 lab=in}
 N 180 -1100 230 -1100 {
-lab=ena_h}
-N 90 -1000 140 -1000 {
-lab=vss}
-C {sky130_fd_pr/cap_mim_m3_1.sym} 1060 -1150 0 0 {name=C1 model=cap_mim_m3_1 W=5 L=5 MF=80 spiceprefix=X}
-C {sky130_fd_pr/cap_mim_m3_2.sym} 1270 -1150 2 0 {name=C2 model=cap_mim_m3_2 W=5 L=5 MF=80 spiceprefix=X}
+lab=ena3v}
+N 90 -1000 320 -1000 {
+lab=dvss}
+C {sky130_fd_pr/cap_mim_m3_1.sym} 1060 -1150 0 0 {name=C1 model=cap_mim_m3_1 W=5 L=5 MF=48 spiceprefix=X}
+C {sky130_fd_pr/cap_mim_m3_2.sym} 1270 -1150 2 0 {name=C2 model=cap_mim_m3_2 W=5 L=5 MF=48 spiceprefix=X}
 C {balanced_switch.sym} 840 -1170 0 0 {name=x1}
 C {devices/ipin.sym} 260 -1220 0 0 {name=p1 lab=vdd}
 C {devices/ipin.sym} 260 -1310 0 0 {name=p2 lab=hold}
@@ -149,14 +145,15 @@ C {devices/lab_pin.sym} 320 -1410 0 0 {name=l3 sig_type=std_logic lab=dvss}
 C {devices/lab_pin.sym} 1170 -1200 0 0 {name=l4 sig_type=std_logic lab=holdval}
 C {sky130_fd_pr/diode.sym} 370 -1360 2 0 {name=XD1
 model=diode_pw2nd_05v5
-area=1e12
-}
+area=3.6e11
+perim=2.4e6}
 C {devices/ipin.sym} 80 -1100 0 0 {name=p8 lab=ena}
 C {devices/lab_pin.sym} 1340 -1180 0 0 {name=l5 sig_type=std_logic lab=ena3v}
 C {lsbuflv2hv_1.sym} 140 -1100 0 0 {name=x5 LVPWR=dvdd VGND=dvss VNB=dvss VPB=vdd VPWR=vdd prefix=sky130_fd_sc_hvl__ }
 C {sky130_fd_pr/diode.sym} 90 -1030 0 0 {name=XD2
 model=diode_pw2nd_05v5
-area=1e12
+area=3.6e11
+perim=2.4e6
 }
 C {devices/lab_pin.sym} 350 -1000 0 1 {name=p9 sig_type=std_logic lab=dvss}
 C {devices/lab_pin.sym} 1370 -1070 0 1 {name=p10 sig_type=std_logic lab=dvss}

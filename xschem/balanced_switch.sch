@@ -1,4 +1,5 @@
-v {xschem version=3.0.0 file_version=1.2 }
+v {xschem version=3.4.5 file_version=1.2
+}
 G {}
 K {}
 V {}
@@ -294,5 +295,6 @@ C {devices/lab_pin.sym} 1750 -1290 0 0 {name=l10 sig_type=std_logic lab=holdp}
 C {devices/ipin.sym} 920 -1290 0 0 {name=p5 lab=hold}
 C {sky130_fd_pr/diode.sym} 950 -1260 0 0 {name=XD1
 model=diode_pw2nd_05v5
-area=1
+area=2.025e11
+perim=1.8e6
 }
