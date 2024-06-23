@@ -2956,7 +2956,7 @@ use sky130_fd_pr__pfet_g5v0d10v5_KLWMS5  XM6
 timestamp 1718240546
 transform 1 0 3483 0 1 3332
 box -545 -397 545 397
-use sky130_fd_pr__nfet_g5v0d10v5_FJGQ2Y  XM7 paramcells
+use sky130_fd_pr__nfet_g5v0d10v5_XJGQ2Y  XM7 paramcells
 timestamp 1718240546
 transform 1 0 3567 0 1 2481
 box -357 -358 357 358
