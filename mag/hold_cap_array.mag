@@ -152,32 +152,32 @@ rect 3598 -26158 3918 -25920
 rect 7384 -26158 7704 -25920
 rect 11170 -26158 11490 -25920
 rect 1997 -26553 13175 -26158
-use sky130_fd_pr__cap_mim_m3_1_VCAG9S  sky130_fd_pr__cap_mim_m3_1_VCAG9S_0 paramcells
+use sky130_fd_pr__cap_mim_m3_1_VCAG9S_alt  sky130_fd_pr__cap_mim_m3_1_VCAG9S_0 paramcells
 array 0 0 -1381 0 7 1289
 timestamp 1718240546
 transform -1 0 2744 0 1 -25341
 box -650 -600 819 701
-use sky130_fd_pr__cap_mim_m3_1_VCAG9S  sky130_fd_pr__cap_mim_m3_1_VCAG9S_1
+use sky130_fd_pr__cap_mim_m3_1_VCAG9S_alt  sky130_fd_pr__cap_mim_m3_1_VCAG9S_1
 array 0 0 1381 0 7 1289
 timestamp 1718240546
 transform 1 0 4772 0 1 -25341
 box -650 -600 819 701
-use sky130_fd_pr__cap_mim_m3_1_VCAG9S  sky130_fd_pr__cap_mim_m3_1_VCAG9S_2
+use sky130_fd_pr__cap_mim_m3_1_VCAG9S_alt  sky130_fd_pr__cap_mim_m3_1_VCAG9S_2
 array 0 0 -1381 0 7 1289
 timestamp 1718240546
 transform -1 0 6530 0 1 -25341
 box -650 -600 819 701
-use sky130_fd_pr__cap_mim_m3_1_VCAG9S  sky130_fd_pr__cap_mim_m3_1_VCAG9S_3
+use sky130_fd_pr__cap_mim_m3_1_VCAG9S_alt  sky130_fd_pr__cap_mim_m3_1_VCAG9S_3
 array 0 0 1381 0 7 1289
 timestamp 1718240546
 transform 1 0 8558 0 1 -25341
 box -650 -600 819 701
-use sky130_fd_pr__cap_mim_m3_1_VCAG9S  sky130_fd_pr__cap_mim_m3_1_VCAG9S_4
+use sky130_fd_pr__cap_mim_m3_1_VCAG9S_alt  sky130_fd_pr__cap_mim_m3_1_VCAG9S_4
 array 0 0 -1381 0 7 1289
 timestamp 1718240546
 transform -1 0 10316 0 1 -25341
 box -650 -600 819 701
-use sky130_fd_pr__cap_mim_m3_1_VCAG9S  sky130_fd_pr__cap_mim_m3_1_VCAG9S_5
+use sky130_fd_pr__cap_mim_m3_1_VCAG9S_alt  sky130_fd_pr__cap_mim_m3_1_VCAG9S_5
 array 0 0 1381 0 7 1289
 timestamp 1718240546
 transform 1 0 12344 0 1 -25341
