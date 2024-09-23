@@ -165,7 +165,7 @@ Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_KLWMS5 in circuit foll
 Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_0p35_HLA228 in circuit follower_amp (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_FJGQFC in circuit follower_amp (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__diode_pw2nd_05v5_FT76RJ in circuit follower_amp (0)(2 instances)
-Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_FJGQ2Y in circuit follower_amp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_XJGQ2Y in circuit follower_amp (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__nfet_05v0_nvt_BH6ZTK in circuit follower_amp (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_Z8JNCQ in circuit follower_amp (0)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_H7BQFY in circuit follower_amp (0)(1 instance)
@@ -232,7 +232,7 @@ Cell pin lists are equivalent.
 Device classes sky130_fd_sc_hvl__lsbuflv2hv_1 and sky130_fd_sc_hvl__lsbuflv2hv_1 are equivalent.
 Flattening unmatched subcell sky130_fd_pr__diode_pw2nd_05v5_L93GHW in circuit sky130_ef_ip__samplehold (0)(2 instances)
 Flattening unmatched subcell hold_cap_array in circuit sky130_ef_ip__samplehold (0)(1 instance)
-Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_VCAG9S in circuit sky130_ef_ip__samplehold (0)(48 instances)
+Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_1_VCAG9S_alt in circuit sky130_ef_ip__samplehold (0)(48 instances)
 Flattening unmatched subcell sky130_fd_pr__cap_mim_m3_2_VCAE9S in circuit sky130_ef_ip__samplehold (0)(48 instances)
 
 Class sky130_ef_ip__samplehold (0):  Merged 94 parallel devices.

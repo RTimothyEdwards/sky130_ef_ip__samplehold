@@ -1,6 +1,6 @@
 #!/bin/bash
 
-magic -dnull -noconsole -rcfile $PDK_ROOT/$PDK/libs.tech/magic/sky130A.magicrc << EOF
+magic -dnull -noconsole -rcfile \$PDK_ROOT/\$PDK/libs.tech/magic/sky130A.magicrc << EOF
 load sky130_ef_ip__samplehold
 select top cell
 extract path extfiles

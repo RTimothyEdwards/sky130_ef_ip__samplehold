@@ -323,7 +323,7 @@ lab=vdd}
 N 3240 -1050 3240 -810 {
 lab=out}
 N 1100 -510 1150 -510 {
-lab=vss}
+lab=vsub}
 C {sky130_fd_pr/pfet_g5v0d10v5.sym} 2160 -800 0 0 {name=M4
 L=0.5
 W=2
@@ -610,7 +610,7 @@ C {devices/lab_pin.sym} 3530 -1080 0 1 {name=l20 sig_type=std_logic lab=pdrv2}
 C {sky130_fd_pr/diode.sym} 1210 -620 0 0 {name=XD1
 model=diode_pw2nd_05v5
 area=2.025e11
-perim=4e6
+perim=1.8e6
 }
 C {devices/lab_pin.sym} 1310 -560 0 1 {name=l21 sig_type=std_logic lab=vss}
 C {sky130_fd_pr/nfet_g5v0d10v5.sym} 1320 -920 0 0 {name=M13
@@ -630,7 +630,7 @@ spiceprefix=X
 C {sky130_fd_pr/diode.sym} 1110 -850 0 0 {name=XD2
 model=diode_pw2nd_05v5
 area=2.025e11
-perim=4e6
+perim=1.8e6
 }
 C {devices/ipin.sym} 1090 -920 0 0 {name=p5 lab=ena}
 C {sky130_fd_pr/nfet_05v0_nvt.sym} 2900 -690 0 1 {name=M11
